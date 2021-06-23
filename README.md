@@ -1,3 +1,10 @@
+Let me ask - web application developed during the Next level Week Together on June 2021.
+
+This application use Firebase: Authentication and Realtime Database.
+
+
+========================================================================================
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
